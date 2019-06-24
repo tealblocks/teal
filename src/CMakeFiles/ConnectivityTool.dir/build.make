@@ -91,13 +91,13 @@ ConnectivityTool_EXTERNAL_OBJECTS =
 src/connectivity_tool: src/CMakeFiles/ConnectivityTool.dir/ConnectivityTool/ConnectivityTool.cpp.o
 src/connectivity_tool: src/CMakeFiles/ConnectivityTool.dir/build.make
 src/connectivity_tool: src/libCryptoNoteCore.a
-src/connectivity_tool: src/libCommon.a
 src/connectivity_tool: src/libLogging.a
 src/connectivity_tool: src/libCrypto.a
 src/connectivity_tool: src/libP2P.a
 src/connectivity_tool: src/libRpc.a
 src/connectivity_tool: src/libHttp.a
 src/connectivity_tool: src/libSerialization.a
+src/connectivity_tool: src/libCommon.a
 src/connectivity_tool: src/libSystem.a
 src/connectivity_tool: /usr/lib/x86_64-linux-gnu/libboost_system.so
 src/connectivity_tool: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
