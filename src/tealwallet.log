@@ -156,3 +156,55 @@ Use "help" command to see the list of available commands.
 2019-Jun-26 12:55:39.799329 INFO [simplewallet] Wallet connected to daemon.
 2019-Jun-26 13:01:24.867162 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:8081).
 2019-Jun-26 13:06:19.682077 INFO [simplewallet] Wallet closed
+2019-Jun-26 13:42:25.663584 INFO [simplewallet] teal wallet v1.1.1.1()
+2019-Jun-26 13:42:30.166356 INFO [simplewallet] Loading wallet...
+2019-Jun-26 13:42:30.186022 INFO [simplewallet] Opened wallet: aTK16uKPyKcDt1LVPu3ZBuSEs99AE6YD49f5fubiafjJLDyPp6vhS27g2k6yPfyc6R4Ue3XurVKoGBkiEpTkuZ8q2CfsoiAc3
+2019-Jun-26 13:42:30.186100 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2019-Jun-26 13:42:36.930524 INFO [simplewallet] available balance: 0.000000000000, locked amount: 0.000000000000
+2019-Jun-26 13:42:40.965496 INFO [simplewallet] No transfers
+2019-Jun-26 13:42:46.995107 INFO [simplewallet] Mining started in daemon
+2019-Jun-26 13:43:35.276217 INFO [simplewallet] Height 1044, transaction d45290a9e67497307ba53e2d68fc60811fcc6d1d7641a7f0006d948679acd903, received 1.635128267868
+2019-Jun-26 13:44:25.565211 INFO [simplewallet] available balance: 0.000000000000, locked amount: 1.635128267868
+2019-Jun-26 13:44:39.820300 INFO [simplewallet] Wallet closed
+2019-Jun-26 13:44:43.701123 INFO [simplewallet] teal wallet v1.1.1.1()
+2019-Jun-26 13:44:48.325056 INFO [simplewallet] Loading wallet...
+2019-Jun-26 13:44:48.356415 INFO [simplewallet] Opened wallet: aTK16uKPyKcDt1LVPu3ZBuSEs99AE6YD49f5fubiafjJLDyPp6vhS27g2k6yPfyc6R4Ue3XurVKoGBkiEpTkuZ8q2CfsoiAc3
+2019-Jun-26 13:44:48.356884 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2019-Jun-26 13:44:53.141660 INFO [simplewallet] Mining stopped in daemon
+2019-Jun-26 13:44:58.201229 INFO [simplewallet] Mining started in daemon
+2019-Jun-26 13:45:38.480150 INFO [simplewallet] Unconfirmed transaction 997825037fb8cd938ff6f65d173bc79fbfcb605a380bc1a7d3c23803755bddb8, received 63.000000000000
+2019-Jun-26 13:46:30.065752 INFO [simplewallet] Mining stopped in daemon
+2019-Jun-26 13:46:35.840667 INFO [simplewallet] Wallet closed
+2019-Jun-26 13:46:56.443123 INFO [simplewallet] teal wallet v1.1.1.1()
+2019-Jun-26 13:47:02.943049 INFO [simplewallet] Loading wallet...
+2019-Jun-26 13:47:02.965971 INFO [simplewallet] Opened wallet: aTJamARNKqGAwhth5MNHiUCEZrsAJxB1QerHW1hV25gAbqQrTiE9azdTVMCyDa8zcwMeoFPB8hY4MQr9wWnr6XZo2W3UjXXp3
+2019-Jun-26 13:47:02.966083 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2019-Jun-26 13:47:10.585344 INFO [simplewallet] available balance: 52.362917707824, locked amount: 0.000000000000
+2019-Jun-26 13:48:16.359552 INFO [simplewallet] Money successfully sent, transaction 556552c8c554878a8efe677ae5f250160b622e56bd98f5df865591c7e2444268
+2019-Jun-26 13:48:24.619556 INFO [simplewallet] Wallet closed
+2019-Jun-26 13:48:34.716406 INFO [simplewallet] teal wallet v1.1.1.1()
+2019-Jun-26 13:48:40.403701 INFO [simplewallet] Loading wallet...
+2019-Jun-26 13:48:40.423685 INFO [simplewallet] Opened wallet: aTK16uKPyKcDt1LVPu3ZBuSEs99AE6YD49f5fubiafjJLDyPp6vhS27g2k6yPfyc6R4Ue3XurVKoGBkiEpTkuZ8q2CfsoiAc3
+2019-Jun-26 13:48:40.423827 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2019-Jun-26 13:48:57.699239 INFO [simplewallet] Mining started in daemon
+2019-Jun-26 13:49:04.224982 INFO [simplewallet] available balance: 0.000000000000, locked amount: 64.635128267868
+2019-Jun-26 14:15:05.328699 INFO [simplewallet] Wallet data saved
+2019-Jun-26 14:15:08.524340 INFO [simplewallet] available balance: 0.000000000000, locked amount: 64.635128267868
+2019-Jun-26 15:31:15.895462 INFO [simplewallet] available balance: 0.000000000000, locked amount: 64.635128267868
+2019-Jun-26 17:52:49.224806 INFO [simplewallet] Height 1052, transaction f9b8970d90b0c940854db5c4864b759af259f2d7215546063c57fab784d0641b, received 1.635103317957
+2019-Jun-26 18:01:50.687148 INFO [simplewallet] Height 1053, transaction 5e6a77a0b17209494546787cc1b81bddfe7067010c36b0dc3319b350d3fc788a, received 1.635100199245
+2019-Jun-26 18:04:21.086769 INFO [simplewallet] Height 1054, transaction 2f338ac5ae30a90a246d59c04dc01dbb3b06ad13b3519308fd7d57739d95f348, received 1.635097080539
+2019-Jun-26 18:09:47.083866 INFO [simplewallet] Height 1055, transaction 2678edf309d81689be59139c9e5cd2b47801713d177e9516874db43a257e9309, received 1.635093961839
+2019-Jun-26 18:12:07.282622 INFO [simplewallet] Height 1056, transaction 915f42b7ae193f055ced9442caad82585a1014f89d5b965739769d50abef8858, received 1.635090843145
+2019-Jun-26 18:36:57.483971 INFO [simplewallet] Wallet data saved
+2019-Jun-26 18:37:26.678154 INFO [simplewallet] available balance: 0.000000000000, locked amount: 72.810613670593
+2019-Jun-26 18:37:50.691276 INFO [simplewallet] Mining stopped in daemon
+2019-Jun-26 18:37:54.039961 INFO [simplewallet] Wallet closed
