@@ -1,0 +1,114 @@
+2019-Jun-24 17:04:29.199702 INFO [daemon] TEAL v1.1.1.1()
+2019-Jun-24 17:04:29.199839 INFO [daemon] Module folder: ./teald
+2019-Jun-24 17:04:29.200773 INFO [daemon] Initializing p2p server...
+2019-Jun-24 17:04:29.266104 INFO [node_server] Binding on 0.0.0.0:17236
+2019-Jun-24 17:04:29.266181 INFO [node_server] Net service binded on 0.0.0.0:17236
+2019-Jun-24 17:04:29.266225 INFO [node_server] Attempting to add IGD port mapping.
+2019-Jun-24 17:04:33.270833 INFO [node_server] No IGD was found.
+2019-Jun-24 17:04:33.270945 INFO [daemon] P2p server initialized OK
+2019-Jun-24 17:04:33.270989 INFO [daemon] Initializing core...
+2019-Jun-24 17:04:33.271152 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2019-Jun-24 17:04:33.294525 INFO [Blockchain] Blockchain initialized. last block: 0, d2546.h12.m4.s33 time ago, current difficulty: 1
+2019-Jun-24 17:04:33.294593 INFO [daemon] Core initialized OK
+2019-Jun-24 17:04:33.294699 INFO [daemon] Starting core rpc server on address 127.0.0.1:18236
+2019-Jun-24 17:04:33.294779 INFO [daemon] Core rpc server started ok
+2019-Jun-24 17:04:33.294822 INFO [daemon] Starting p2p net loop...
+2019-Jun-24 17:04:33.294865 INFO [node_server] Starting node_server
+2019-Jun-24 17:04:38.296901 INFO [protocol] 
+2019-Jun-24 17:04:38.296901 INFO [protocol] **********************************************************************
+2019-Jun-24 17:04:38.296901 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2019-Jun-24 17:04:38.296901 INFO [protocol] 
+2019-Jun-24 17:04:38.296901 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2019-Jun-24 17:04:38.296901 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2019-Jun-24 17:04:38.296901 INFO [protocol] 
+2019-Jun-24 17:04:38.296901 INFO [protocol] Use "help" command to see the list of available commands.
+2019-Jun-24 17:04:38.296901 INFO [protocol] **********************************************************************
+2019-Jun-24 17:04:38.297546 INFO [core] 
+2019-Jun-24 17:04:38.297546 INFO [core] **********************************************************************
+2019-Jun-24 17:04:38.297546 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2019-Jun-24 17:04:38.297546 INFO [core] 
+2019-Jun-24 17:04:38.297546 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2019-Jun-24 17:04:38.297546 INFO [core] 
+2019-Jun-24 17:04:38.297546 INFO [core] Use "help" command to see the list of available commands.
+2019-Jun-24 17:04:38.297546 INFO [core] 
+2019-Jun-24 17:04:38.297546 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2019-Jun-24 17:04:38.297546 INFO [core] **********************************************************************
+2019-Jun-24 17:04:38.298041 WARNING [node_server] [18.200.85.126:39245 INC] Exception in connectionHandler: TcpConnection::read
+2019-Jun-24 17:05:24.404541 INFO [node_server] Stop signal sent
+2019-Jun-24 17:05:24.404670 INFO [node_server] Stopping NodeServer and it's0 connections...
+2019-Jun-24 17:05:44.407244 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2019-Jun-24 17:05:45.407538 INFO [node_server] NodeServer loop stopped
+2019-Jun-24 17:05:45.407638 INFO [daemon] p2p net loop stopped
+2019-Jun-24 17:05:45.407676 INFO [daemon] Stopping core rpc server...
+2019-Jun-24 17:05:45.407745 INFO [daemon] Deinitializing core...
+2019-Jun-24 17:05:45.407783 INFO [miner] Mining has been stopped, 0 finished
+2019-Jun-24 17:05:45.407898 INFO [Blockchain] Saving blockchain...
+2019-Jun-24 17:05:45.407962 INFO [BlockCacheSerializer] - saving block index...
+2019-Jun-24 17:05:45.408002 INFO [BlockCacheSerializer] - saving transaction map...
+2019-Jun-24 17:05:45.408035 INFO [BlockCacheSerializer] - saving spent keys...
+2019-Jun-24 17:05:45.408067 INFO [BlockCacheSerializer] - saving outputs...
+2019-Jun-24 17:05:45.408109 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2019-Jun-24 17:05:45.408143 INFO [BlockCacheSerializer] Serialization time: 0ms
+2019-Jun-24 17:05:45.408186 INFO [Blockchain] Saving blockchain indices...
+2019-Jun-24 17:05:45.408238 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2019-Jun-24 17:05:45.408276 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2019-Jun-24 17:05:45.408308 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2019-Jun-24 17:05:45.408352 INFO [daemon] Deinitializing p2p...
+2019-Jun-24 17:05:45.408493 INFO [miner] Mining has been stopped, 0 finished
+2019-Jun-24 17:05:45.408790 INFO [daemon] Node stopped.
+2019-Jun-24 17:13:28.559342 INFO [daemon] TEAL v1.1.1.1()
+2019-Jun-24 17:13:28.559984 INFO [daemon] Module folder: ./teald
+2019-Jun-24 17:13:28.562423 INFO [daemon] Initializing p2p server...
+2019-Jun-24 17:13:28.610346 INFO [node_server] Binding on 0.0.0.0:17236
+2019-Jun-24 17:13:28.610433 INFO [node_server] Net service binded on 0.0.0.0:17236
+2019-Jun-24 17:13:28.610493 INFO [node_server] Attempting to add IGD port mapping.
+2019-Jun-24 17:13:32.626140 INFO [node_server] No IGD was found.
+2019-Jun-24 17:13:32.626241 INFO [daemon] P2p server initialized OK
+2019-Jun-24 17:13:32.626303 INFO [daemon] Initializing core...
+2019-Jun-24 17:13:32.627722 INFO [Blockchain] Loading blockchain...
+2019-Jun-24 17:13:32.628858 INFO [BlockCacheSerializer] - loading block index...
+2019-Jun-24 17:13:32.628925 INFO [BlockCacheSerializer] - loading transaction map...
+2019-Jun-24 17:13:32.628998 INFO [BlockCacheSerializer] - loading spent keys...
+2019-Jun-24 17:13:32.629055 INFO [BlockCacheSerializer] - loading outputs...
+2019-Jun-24 17:13:32.629112 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2019-Jun-24 17:13:32.629171 INFO [BlockCacheSerializer] Serialization time: 0ms
+2019-Jun-24 17:13:32.629232 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2019-Jun-24 17:13:32.631663 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2019-Jun-24 17:13:32.631723 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2019-Jun-24 17:13:32.631780 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2019-Jun-24 17:13:32.631852 INFO [Blockchain] Blockchain initialized. last block: 0, d2546.h12.m13.s32 time ago, current difficulty: 1
+2019-Jun-24 17:13:32.631919 INFO [daemon] Core initialized OK
+2019-Jun-24 17:13:32.632046 INFO [daemon] Starting core rpc server on address 127.0.0.1:18236
+2019-Jun-24 17:13:32.632127 INFO [daemon] Core rpc server started ok
+2019-Jun-24 17:13:32.632180 INFO [daemon] Starting p2p net loop...
+2019-Jun-24 17:13:32.632231 INFO [node_server] Starting node_server
+2019-Jun-24 17:13:32.633321 INFO [protocol] 
+2019-Jun-24 17:13:32.633321 INFO [protocol] **********************************************************************
+2019-Jun-24 17:13:32.633321 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2019-Jun-24 17:13:32.633321 INFO [protocol] 
+2019-Jun-24 17:13:32.633321 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2019-Jun-24 17:13:32.633321 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2019-Jun-24 17:13:32.633321 INFO [protocol] 
+2019-Jun-24 17:13:32.633321 INFO [protocol] Use "help" command to see the list of available commands.
+2019-Jun-24 17:13:32.633321 INFO [protocol] **********************************************************************
+2019-Jun-24 17:13:32.633963 INFO [core] 
+2019-Jun-24 17:13:32.633963 INFO [core] **********************************************************************
+2019-Jun-24 17:13:32.633963 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2019-Jun-24 17:13:32.633963 INFO [core] 
+2019-Jun-24 17:13:32.633963 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2019-Jun-24 17:13:32.633963 INFO [core] 
+2019-Jun-24 17:13:32.633963 INFO [core] Use "help" command to see the list of available commands.
+2019-Jun-24 17:13:32.633963 INFO [core] 
+2019-Jun-24 17:13:32.633963 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2019-Jun-24 17:13:32.633963 INFO [core] **********************************************************************
+2019-Jun-24 17:13:32.634556 WARNING [node_server] [18.200.85.126:50063 INC] Exception in connectionHandler: TcpConnection::read
+2019-Jun-24 17:15:54.971810 WARNING [node_server] [18.200.85.126:46523 INC] Exception in connectionHandler: TcpConnection::read
+2019-Jun-24 17:18:49.230916 WARNING [node_server] [18.200.85.126:40875 INC] Exception in connectionHandler: TcpConnection::read
+2019-Jun-24 17:32:48.664960 INFO [daemon] TEAL v1.1.1.1()
+2019-Jun-24 17:33:03.536238 INFO [daemon] TEAL v1.1.1.1()
+2019-Jun-24 17:35:31.416601 INFO [daemon] TEAL v1.1.1.1()
+2019-Jun-24 17:35:31.416732 INFO [daemon] Module folder: ./teald
+2019-Jun-24 17:35:31.417423 INFO [daemon] Initializing p2p server...
+2019-Jun-24 17:35:31.487277 INFO [node_server] Binding on 0.0.0.0:17236
+2019-Jun-24 17:35:31.487482 INFO [miner] Mining has been stopped, 0 finished
+2019-Jun-24 17:35:31.487808 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use

@@ -1,0 +1,125 @@
+2019-Jun-25 16:48:02.548174 INFO [simplewallet] TEAL wallet v1.1.1.1()
+2019-Jun-25 16:48:26.200156 INFO [simplewallet] Generated new wallet: 9G8S1annatJL7mPfw12d8v7z9jgdLRhzhDN9zs5LjfAoCFyqp2xj1UZGfvLBzTcUE6M45xdw4hTYqRcXJZEu3gEHPvHngKT
+2019-Jun-25 16:48:26.200156 INFO [simplewallet] view key: db63a4b28868e7e1b1bcc9666eac9e4019295d761a64d0a824ab1f0008d13a08
+2019-Jun-25 16:48:26.200292 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2019-Jun-25 16:48:38.859853 INFO [simplewallet] Wallet closed
+2019-Jun-25 16:50:56.341950 INFO [simplewallet] TEAL wallet v1.1.1.1()
+2019-Jun-25 16:51:02.314865 INFO [simplewallet] Loading wallet...
+2019-Jun-25 16:51:02.335698 INFO [simplewallet] Opened wallet: 9G8S1annatJL7mPfw12d8v7z9jgdLRhzhDN9zs5LjfAoCFyqp2xj1UZGfvLBzTcUE6M45xdw4hTYqRcXJZEu3gEHPvHngKT
+2019-Jun-25 16:51:02.335816 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2019-Jun-25 16:51:07.486686 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2019-Jun-25 16:51:14.422808 INFO [simplewallet] Mining started in daemon
+2019-Jun-25 16:51:22.066842 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2019-Jun-25 16:57:14.763500 INFO [simplewallet] TEAL wallet v1.1.1.1()
+2019-Jun-25 16:57:20.025816 INFO [simplewallet] Loading wallet...
+2019-Jun-25 16:57:20.057759 INFO [simplewallet] Opened wallet: 9G8S1annatJL7mPfw12d8v7z9jgdLRhzhDN9zs5LjfAoCFyqp2xj1UZGfvLBzTcUE6M45xdw4hTYqRcXJZEu3gEHPvHngKT
+2019-Jun-25 16:57:20.057985 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2019-Jun-25 16:57:25.946325 ERROR [simplewallet] Error: mining has NOT been started: Failed,miningnotstarted
+2019-Jun-25 16:57:35.768137 INFO [simplewallet] Mining stopped in daemon
+2019-Jun-25 16:57:43.199661 INFO [simplewallet] Mining started in daemon
+2019-Jun-25 16:58:00.534587 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2019-Jun-25 16:58:37.598591 INFO [simplewallet] Height 490, transaction 6c5b4a525a3c56b2d7739fb7545c83e52f8c7748eacd7314b81822149b03c3f7, received 16368.56975549
+2019-Jun-25 16:58:40.149237 INFO [simplewallet] Height 490, transaction 6c5b4a525a3c56b2d7739fb7545c83e52f8c7748eacd7314b81822149b03c3f7, received 16368.56975549
+2019-Jun-25 16:58:53.726015 INFO [simplewallet]   timestamp (UTC)                                  hash                                    total amount            fee        block   unlock time
+2019-Jun-25 16:58:53.726256 INFO [simplewallet] -------------------------------------------------------------------------------------------------------------------------------------------------
+2019-Jun-25 16:58:53.726558 INFO [simplewallet] 2019-06-25 16:58:33  6c5b4a525a3c56b2d7739fb7545c83e52f8c7748eacd7314b81822149b03c3f7        16368.56975549      0.00000000      490          550
+2019-Jun-25 16:58:53.726878 INFO [simplewallet]  
+2019-Jun-25 16:59:12.615626 INFO [simplewallet] Wallet data saved
+2019-Jun-25 17:07:45.682799 INFO [simplewallet] Wallet data saved
+2019-Jun-25 17:07:51.222552 INFO [simplewallet] Mining stopped in daemon
+2019-Jun-25 17:07:53.917041 INFO [simplewallet] Wallet closed
+2019-Jun-25 17:08:27.511950 INFO [simplewallet] TEAL wallet v1.1.1.1()
+2019-Jun-25 17:08:34.189565 INFO [simplewallet] Loading wallet...
+2019-Jun-25 17:08:34.209825 INFO [simplewallet] Opened wallet: 9G8S1annatJL7mPfw12d8v7z9jgdLRhzhDN9zs5LjfAoCFyqp2xj1UZGfvLBzTcUE6M45xdw4hTYqRcXJZEu3gEHPvHngKT
+2019-Jun-25 17:08:34.209963 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2019-Jun-25 17:08:40.490916 INFO [simplewallet] Mining started in daemon
+2019-Jun-25 17:26:09.876236 INFO [simplewallet] Height 509, transaction 91eddad0c08b5e68c4d711bf0e2ae8df967bfda3c05b2f1d4bb603df36567db8, received 16367.97657485
+2019-Jun-25 17:26:49.898474 INFO [simplewallet] Height 510, transaction f3b95dad7909af1eed0fe8dbb07827d9733df0115f6248e43c9872c4c0ad44b6, received 16367.94535542
+2019-Jun-25 17:29:09.985081 INFO [simplewallet] Height 513, transaction b83e0d55d6348be6f63557c4aa7333328beb5e953fb00dbcce835a01c98f6535, received 16367.85169746
+2019-Jun-25 17:30:50.034343 INFO [simplewallet] Height 515, transaction cded902f51d4ee0cc1bf8b347285088059b7886b3343a53aeb0ac9627aa84c85, received 16367.78925912
+2019-Jun-25 17:37:00.226502 INFO [simplewallet] Height 523, transaction f8b72553aef605d620a3ce1a325e44931db33336f7b9b9efb5389e3d0a7b947a, received 16367.53950814
+2019-Jun-25 17:57:05.824324 INFO [simplewallet] Height 536, transaction 48bcefc4fa74ece45774de171d7f81e55bd3f875fa66a8ccf72ebd6f32ab31f4, received 16367.13367094
+2019-Jun-25 18:10:06.206432 INFO [simplewallet] Height 549, transaction 5fdf717e25c9b80198af5d4710b218b4786481f59ee9350f83effa4a1666c245, received 16366.72784379
+2019-Jun-25 18:13:22.299390 INFO [simplewallet] Wallet data saved
+2019-Jun-25 18:35:56.940462 INFO [simplewallet] Height 571, transaction f8c84356540809d19a968344163e2392bcc0d5fa6fc63e3c20e875b78fc32989, received 16366.04108231
+2019-Jun-25 18:38:17.007060 INFO [simplewallet] Height 573, transaction ffc119ea0c421edfb7c1463c8c0eb363a9ea8fb4bed1f6e8be4c594d728705cc, received 16365.97865088
+2019-Jun-25 19:21:25.573974 INFO [simplewallet] Wallet data saved
+2019-Jun-25 19:21:43.392228 INFO [simplewallet] available balance: 114574.80582142, locked amount: 49098.74757698
+2019-Jun-25 19:24:13.394297 INFO [simplewallet] Height 605, transaction 57a12751783f74394d56fcd521e8fae075af8fa6abf7921466cb8c5744ed68f9, received 16364.97978035
+2019-Jun-25 19:32:32.428163 INFO [simplewallet] Wallet data saved
+2019-Jun-25 19:34:28.689558 INFO [simplewallet] Height 611, transaction c9f6fff23545a7a88918c22f831ce00a6e8e722af917d3dac35eb191a4e75de3, received 16364.79249891
+2019-Jun-25 19:37:18.204414 INFO [simplewallet] Wallet data saved
+2019-Jun-25 19:37:24.964715 INFO [simplewallet] available balance: 130941.53366521, locked amount: 65461.79201245
+2019-Jun-25 19:37:33.776505 INFO [simplewallet] Height 612, transaction 41ee4e5dbdea5fd400b93835d6a417e53755423c29c8d4391bdb52aaba2a83b5, received 16364.76128554
+2019-Jun-25 19:37:44.956199 INFO [simplewallet] Wallet data saved
+2019-Jun-25 19:48:09.069202 INFO [simplewallet] Height 617, transaction bc10a0ca10fde26b35ed635167fda81e8dc92e6c589dd3b2562ccb6e098d976a, received 16364.60521961
+2019-Jun-25 20:14:04.822816 INFO [simplewallet] Height 627, transaction b8135e4cc941ef68494a94b61151d953fc034136d2a552c4d5f8227404de7a3d, received 16364.29309222
+2019-Jun-25 20:28:10.235496 INFO [simplewallet] Height 634, transaction 68831c31910f5961b9f5a55c37e5ab088aabe03ca5f2964efa77d6bf37f675ac, received 16364.07460658
+2019-Jun-25 20:37:55.554337 INFO [simplewallet] Height 638, transaction 81a5bb5cd1be5d74ac03dd1374f3cfe209e76ce7125d1544a8302b47ccfea43e, received 16363.94975896
+2019-Jun-25 20:55:51.093670 INFO [simplewallet] Height 643, transaction 56019ec44ec91a7b7f4d7892b6ebc2a727c8cd1181462d5d40f7c1f1e4ced9ff, received 16363.79370077
+2019-Jun-25 21:10:31.529027 INFO [simplewallet] Height 648, transaction 77a04cc4c44c0f88dc367dfb8170631e746fce1b3f4c079369bb8796b0ab21fe, received 16363.63764407
+2019-Jun-25 21:37:02.345666 INFO [simplewallet] Height 664, transaction de82a458f79d7c725078adaa3cc755f49dab0537d01fe1becd3802f838e47d67, received 16363.13827262
+2019-Jun-25 21:58:58.009400 INFO [simplewallet] Height 673, transaction 332c3f432d1435cb73908535744d0988e6ef194ca036f61b63ef86a3f5b7fec4, received 16362.85738288
+2019-Jun-25 22:17:23.592441 INFO [simplewallet] Height 681, transaction 8977b478a219d3d2cb1d4568fd49c45d8b9368a28cde8e3046788cd884ad2740, received 16362.60770716
+2019-Jun-25 22:19:38.665166 INFO [simplewallet] Height 683, transaction 43e97402b5cbf8b39886dffac59f5651af6c4435bdd6deef8a48777f4554e248, received 16362.54528882
+2019-Jun-25 23:39:27.211337 INFO [simplewallet] Height 720, transaction bca4ca05b1dee2011a6b297007ff3d4518a806d660b8f2bd302156daa92a7d40, received 16361.39059256
+2019-Jun-26 00:13:47.708557 INFO [simplewallet] Height 737, transaction 78f98d27ef5cd38cab8a8a70506507f96971ad2ce8dca001def31f1bc12178ac, received 16360.86008377
+2019-Jun-26 00:35:05.059293 INFO [simplewallet] Height 743, transaction 6f1288320ae9645d197ba199be610efda09d5ba4b7a70d993ee46e1890c034e0, received 16360.67284948
+2019-Jun-26 03:33:57.806088 INFO [simplewallet] Height 808, transaction d41084de6576bd691f4927a8bb8e30ed5c55fa1368db131bcf9ff60189b37eac, received 16358.64461532
+2019-Jun-26 04:00:25.810767 INFO [simplewallet] Wallet data saved
+2019-Jun-26 04:10:47.303160 INFO [simplewallet] Height 822, transaction 47d75f87f0503e5b013d51a93d4a71567658122c8daf017bab298c7e1a8175a3, received 16358.20779780
+2019-Jun-26 04:25:29.204065 INFO [simplewallet] Height 827, transaction 165e70e77c17be18f5057a0c3234c76fbcec9a44e2314a8839e5913f1f8a550d, received 16358.05179436
+2019-Jun-26 05:19:35.203216 INFO [simplewallet] Wallet data saved
+2019-Jun-26 05:19:44.111372 INFO [simplewallet] available balance: 425486.51316270, locked amount: 49074.90420748
+2019-Jun-26 05:59:14.107846 INFO [simplewallet] Height 877, transaction 744b7099789d728cd381886f47e76b5b783d08e5958dbc41fea6a1e3d8e94ebe, received 16356.49184188
+2019-Jun-26 06:52:22.929601 INFO [simplewallet] Height 897, transaction b6f0685c765dc87374919c1dd4aa171c675dd67c358352cc2e80f1cc40fff1ac, received 16355.86790253
+2019-Jun-26 07:24:32.520737 INFO [simplewallet] Height 912, transaction 2be2efb6f3f89e6192f82c6894096270eaccb9d49089529728b6fd6580e1f953, received 16355.39996365
+2019-Jun-26 10:44:11.509304 INFO [simplewallet] Wallet data saved
+2019-Jun-26 10:44:28.160469 INFO [simplewallet] available balance: 523629.17707824, locked amount: 0.00000000
+2019-Jun-26 11:23:57.898251 INFO [simplewallet] Wallet data saved
+2019-Jun-26 11:24:04.603653 INFO [simplewallet] Mining stopped in daemon
+2019-Jun-26 11:24:07.099612 INFO [simplewallet] Wallet closed
