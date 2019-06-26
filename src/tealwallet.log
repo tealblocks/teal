@@ -123,3 +123,36 @@ Use "help" command to see the list of available commands.
 2019-Jun-26 11:23:57.898251 INFO [simplewallet] Wallet data saved
 2019-Jun-26 11:24:04.603653 INFO [simplewallet] Mining stopped in daemon
 2019-Jun-26 11:24:07.099612 INFO [simplewallet] Wallet closed
+2019-Jun-26 12:26:01.151160 INFO [simplewallet] teal wallet v1.1.1.1()
+2019-Jun-26 12:26:09.318054 ERROR [simplewallet] Failed to initialize wallet
+2019-Jun-26 12:44:04.211089 INFO [simplewallet] teal wallet v1.1.1.1()
+2019-Jun-26 12:44:38.214625 INFO [simplewallet] Generated new wallet: aTK16uKPyKcDt1LVPu3ZBuSEs99AE6YD49f5fubiafjJLDyPp6vhS27g2k6yPfyc6R4Ue3XurVKoGBkiEpTkuZ8q2CfsoiAc3
+2019-Jun-26 12:44:38.214625 INFO [simplewallet] view key: b31c8c4a5eb273aa27b0901dbacdc72a1de6a38efb921222f29dcf7a5bdb3107
+2019-Jun-26 12:44:38.214834 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2019-Jun-26 12:44:59.077563 INFO [simplewallet] Wallet closed
+2019-Jun-26 12:45:25.718796 INFO [simplewallet] teal wallet v1.1.1.1()
+2019-Jun-26 12:45:31.337436 INFO [simplewallet] Loading wallet...
+2019-Jun-26 12:45:31.357517 INFO [simplewallet] Opened wallet: aTK16uKPyKcDt1LVPu3ZBuSEs99AE6YD49f5fubiafjJLDyPp6vhS27g2k6yPfyc6R4Ue3XurVKoGBkiEpTkuZ8q2CfsoiAc3
+2019-Jun-26 12:45:31.357623 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2019-Jun-26 12:45:36.483444 ERROR [simplewallet] Error: Failed to invoke rpc method: HTTP status: 2
+2019-Jun-26 12:47:34.677299 INFO [simplewallet] No transfers
+2019-Jun-26 12:53:05.230523 INFO [simplewallet] Wallet closed
+2019-Jun-26 12:53:29.266115 INFO [simplewallet] teal wallet v1.1.1.1()
+2019-Jun-26 12:53:34.779852 INFO [simplewallet] Loading wallet...
+2019-Jun-26 12:53:34.801948 INFO [simplewallet] Opened wallet: aTK16uKPyKcDt1LVPu3ZBuSEs99AE6YD49f5fubiafjJLDyPp6vhS27g2k6yPfyc6R4Ue3XurVKoGBkiEpTkuZ8q2CfsoiAc3
+2019-Jun-26 12:53:34.802065 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2019-Jun-26 12:53:43.489932 ERROR [simplewallet] Error: Failed to invoke rpc method: HTTP status: 2
+2019-Jun-26 12:55:04.795130 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:8081).
+2019-Jun-26 12:55:39.799329 INFO [simplewallet] Wallet connected to daemon.
+2019-Jun-26 13:01:24.867162 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:8081).
+2019-Jun-26 13:06:19.682077 INFO [simplewallet] Wallet closed

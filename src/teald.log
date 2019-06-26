@@ -112,3 +112,48 @@
 2019-Jun-24 17:35:31.487277 INFO [node_server] Binding on 0.0.0.0:17236
 2019-Jun-24 17:35:31.487482 INFO [miner] Mining has been stopped, 0 finished
 2019-Jun-24 17:35:31.487808 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use
+2019-Jun-26 12:22:41.717301 INFO [daemon] teal v1.1.1.1()
+2019-Jun-26 12:22:41.717468 INFO [daemon] Module folder: /home/ubuntu/dev/teal/src/teald
+2019-Jun-26 12:22:41.718278 INFO [daemon] Initializing p2p server...
+2019-Jun-26 12:22:41.762496 INFO [node_server] Binding on 0.0.0.0:8080
+2019-Jun-26 12:22:41.762607 INFO [node_server] Net service binded on 0.0.0.0:8080
+2019-Jun-26 12:22:41.762688 INFO [node_server] Attempting to add IGD port mapping.
+2019-Jun-26 12:22:45.767653 INFO [node_server] No IGD was found.
+2019-Jun-26 12:22:45.767768 INFO [daemon] P2p server initialized OK
+2019-Jun-26 12:22:45.767841 INFO [daemon] Initializing core...
+2019-Jun-26 12:22:45.768899 INFO [Blockchain] Loading blockchain...
+2019-Jun-26 12:22:45.770229 INFO [BlockCacheSerializer] - loading block index...
+2019-Jun-26 12:22:45.770979 INFO [BlockCacheSerializer] - loading transaction map...
+2019-Jun-26 12:22:45.771492 INFO [BlockCacheSerializer] - loading spent keys...
+2019-Jun-26 12:22:45.771579 INFO [BlockCacheSerializer] - loading outputs...
+2019-Jun-26 12:22:45.773267 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2019-Jun-26 12:22:45.773340 INFO [BlockCacheSerializer] Serialization time: 3ms
+2019-Jun-26 12:22:45.773426 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2019-Jun-26 12:22:45.773950 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2019-Jun-26 12:22:45.774016 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2019-Jun-26 12:22:45.774922 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2019-Jun-26 12:22:45.778060 INFO [Blockchain] Blockchain initialized. last block: 1043, d0.h1.m2.s41 time ago, current difficulty: 41537
+2019-Jun-26 12:22:45.788363 INFO [daemon] Core initialized OK
+2019-Jun-26 12:22:45.788523 INFO [daemon] Starting core rpc server on address 127.0.0.1:8081
+2019-Jun-26 12:22:45.788632 INFO [daemon] Core rpc server started ok
+2019-Jun-26 12:22:45.788701 INFO [daemon] Starting p2p net loop...
+2019-Jun-26 12:22:45.788767 INFO [node_server] Starting node_server
+2019-Jun-26 12:22:50.789904 INFO [core] 
+2019-Jun-26 12:22:50.789904 INFO [core] **********************************************************************
+2019-Jun-26 12:22:50.789904 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2019-Jun-26 12:22:50.789904 INFO [core] 
+2019-Jun-26 12:22:50.789904 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2019-Jun-26 12:22:50.789904 INFO [core] 
+2019-Jun-26 12:22:50.789904 INFO [core] Use "help" command to see the list of available commands.
+2019-Jun-26 12:22:50.789904 INFO [core] 
+2019-Jun-26 12:22:50.789904 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2019-Jun-26 12:22:50.789904 INFO [core] **********************************************************************
+2019-Jun-26 12:25:00.612437 INFO [protocol] 
+2019-Jun-26 12:25:00.612437 INFO [protocol] **********************************************************************
+2019-Jun-26 12:25:00.612437 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2019-Jun-26 12:25:00.612437 INFO [protocol] 
+2019-Jun-26 12:25:00.612437 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2019-Jun-26 12:25:00.612437 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2019-Jun-26 12:25:00.612437 INFO [protocol] 
+2019-Jun-26 12:25:00.612437 INFO [protocol] Use "help" command to see the list of available commands.
+2019-Jun-26 12:25:00.612437 INFO [protocol] **********************************************************************
